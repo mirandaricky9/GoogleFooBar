@@ -31,7 +31,7 @@ def solution(i):
 
 
 ## Testing the code 
-#print(generatePrimes())
-print(solution(0))
-print(solution(3))
-print(solution(98))
+print(generatePrimes())
+# print(solution(0))
+# print(solution(3))
+# print(solution(98))
